@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
+
 - 🧑🏻‍💻 I am working at Defenda Solutions
 
 - 🔭 I’m currently learning and working on cybersecurity projects
