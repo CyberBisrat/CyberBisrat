@@ -4,6 +4,7 @@
 - 🧑🏻‍💻 I am working at Defenda Solutions
 
 - 🔭 I’m currently learning and working on cybersecurity projects
+- 😎 FYI most of my repositories are private
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
