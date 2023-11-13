@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 
-- 🧑🏻‍💻 I am working at Defenda Solutions
+- 🧑🏻‍💻 Working at Defenda Solutions
 
-- 🔭 I’m currently learning and working on cybersecurity projects
+- 🔭 Currently learning and working on cybersecurity projects
+  
 - 😎 FYI most of my repositories are private
   
 <h3 align="left">Connect with me:</h3>
