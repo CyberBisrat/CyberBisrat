@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 
-- 🧑🏻‍💻 Working at Defenda Solutions
+- 🧑🏻‍💻 Working for Italy based cybersecurity company called Defenda Solutions. My main focus area is Cyber Threat Intelligence.
 
 - 🔭 Currently learning and working on cybersecurity projects
   
