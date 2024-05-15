@@ -1,4 +1,3 @@
-/*![cover-image](/img/cover_img.jpeg)*/
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 
