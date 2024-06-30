@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 
-- 🧑🏻‍💻 Working for Italy based cybersecurity company **Defenda Solutions**.
+- 🧑🏻‍💻 Working for Italian cybersecurity company **Defenda Solutions**.
 
 - ❤️ My main focus area is **Cyber Threat Intelligence(CTI)**.
-
-- 🔨 Currently learning Rust and working on cybersecurity projects
   
 - 😎 FYI most of my repositories are private
   
