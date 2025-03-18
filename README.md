@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bisrat</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 
-- 🧑🏻‍💻 Working for Italian cybersecurity company **Defenda Solutions**.
+- 🧑🏻‍💻 Currently working on an internship project in a Canadian cybersecurity company **eSentire**.
 
 - ❤️ My main focus area is **Cyber Threat Intelligence(CTI)**.
   
